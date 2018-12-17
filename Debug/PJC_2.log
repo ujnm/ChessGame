@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  CBishop.cpp
+  CBoard.cpp
+  CGame.cpp
+  CInterface.cpp
+  CKing.cpp
+  CKnight.cpp
+  CPawn.cpp
+  CAPiece.cpp
+  CPlayer.cpp
+  CQueen.cpp
+  CRook.cpp
+  PJC_2.cpp
+  Generowanie kodu...
+  PJC_2.vcxproj -> D:\Studia\SEM 6\pjc\MojProjektLJ\PJC_2\Debug\PJC_2.exe
